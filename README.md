@@ -9,7 +9,7 @@ GitHub Weekly【开源周刊】旨在收集每周热门、有趣的开源项目�
 
 ## B 站
 
-<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=113730968946441&bvid=BV1iB6WYiEMm&cid=27580435236&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+[![](https://i0.hdslb.com/bfs/archive/635b0dc0536231c5b8c4116f074dcede4c555412.jpg)](https://www.bilibili.com/video/BV1nMkqYHEZR/?spm_id_from=333.788.videopod.sections&vd_source=bbcc199daec111e6d012d8b4944d19b6)
 
 ## 链接
 - [关于我](https://siage.netlify.app/)
