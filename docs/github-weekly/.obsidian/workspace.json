@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "2025/09/开源周刊 (20250901).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "开源周刊 (20250901)"
             }
           }
         ]
@@ -40,7 +40,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
@@ -154,6 +155,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:创建新数据库": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -164,9 +166,47 @@
   },
   "active": "6112ebf47a45b222",
   "lastOpenFiles": [
-    "attachments/主页.png",
+    "attachments/开源周刊微信公众号封面 (5).png",
+    "2025/02/GitHub 周刊 (第59期).md",
+    "2025/09/开源周刊 (20250901).md",
+    "attachments/开源周刊微信公众号封面 (4).png",
+    "attachments/Pasted image 20250909221432.png",
+    "attachments/Pasted image 20250909221408.png",
+    "attachments/Pasted image 20250909221335.png",
+    "attachments/Pasted image 20250909221304.png",
+    "attachments/Pasted image 20250909221117.png",
+    "2025/02/GitHub 周刊 (第60期).md",
+    "2025/09",
+    "attachments/开源周刊微信公众号封面 (2).png",
+    "2025/02/GitHub 周刊 (第62期).md",
+    "2025/02/GitHub 周刊 (第61期).md",
+    "attachments/Pasted image 20250628205226.png",
+    "attachments/Pasted image 20250628205002.png",
+    "attachments/Pasted image 20250628204859.png",
+    "2024/11/GitHub 周刊 (第44期).md",
+    "2025/01/GitHub 周刊 (第56期).md",
+    "2025/01/GitHub 周刊 (第55期).md",
+    "2025/04/GitHub 周刊 (第70期).md",
+    "2025/04/GitHub 周刊 (第69期).md",
+    "2025/04/GitHub 周刊 (第68期).md",
+    "2025/04/GitHub 周刊 (第67期).md",
+    "2025/03/GitHub 周刊 (第66期).md",
+    "2025/03/GitHub 周刊 (第65期).md",
+    "2025/03/GitHub 周刊 (第64期).md",
+    "2025/03/GitHub 周刊 (第63期).md",
+    "2025/01/GitHub 周刊 (第58期).md",
+    "2025/01/GitHub 周刊 (第57期).md",
+    "2024/11/GitHub 周刊 (第46期).md",
     "2024/01/GitHub 周刊 (第1期).md",
-    "未命名.md",
-    "Pasted image 20241122150556.png"
+    "index.md",
+    "2024/02/GitHub 周刊 (第5期).md",
+    "2025/06",
+    "2025/05",
+    "2025/04",
+    "2025/03",
+    "2025/02",
+    "2025/01",
+    "2025",
+    "未命名.md"
   ]
 }

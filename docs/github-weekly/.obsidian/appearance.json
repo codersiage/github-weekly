@@ -1,3 +1,9 @@
 {
-  "cssTheme": "Border"
+  "cssTheme": "Border",
+  "theme": "moonstone",
+  "enabledCssSnippets": [
+    "markdown-preview-view"
+  ],
+  "showViewHeader": true,
+  "showRibbon": true
 }

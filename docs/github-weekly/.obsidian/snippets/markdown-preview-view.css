@@ -1,0 +1,51 @@
+/* 标题样式优化 - 调整上下间距 */
+.markdown-preview-view h1,
+.markdown-source-view.mod-cm6 .HyperMD-header-1 {
+  margin-top: 2rem;
+  margin-bottom: 1.2rem;
+  padding-bottom: 0.3rem;
+  border-bottom: 1px solid var(--background-modifier-border);
+}
+
+.markdown-preview-view h2,
+.markdown-source-view.mod-cm6 .HyperMD-header-2 {
+  margin-top: 1.8rem;
+  margin-bottom: 1rem !important;
+}
+
+.markdown-preview-view h3,
+.markdown-source-view.mod-cm6 .HyperMD-header-3 {
+  margin-top: 1.5rem;
+  margin-bottom: 0.8rem;
+}
+
+.markdown-preview-view h4,
+.markdown-source-view.mod-cm6 .HyperMD-header-4 {
+  margin-top: 1.2rem;
+  margin-bottom: 0.6rem;
+}
+
+.markdown-preview-view h5, h6,
+.markdown-source-view.mod-cm6 .HyperMD-header-5,
+.markdown-source-view.mod-cm6 .HyperMD-header-6 {
+  margin-top: 1rem;
+  margin-bottom: 0.5rem;
+}
+
+/* 图片样式优化 - 添加边框和间距 */
+.markdown-preview-view img,
+.markdown-source-view.mod-cm6 img {
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  border-radius: 4px;
+  padding: 5px;
+  margin: 10px 0;
+  background-color: rgba(0, 0, 0, 0.02);
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
+}
+
+/* 暗黑模式下的图片边框调整 */
+.theme-dark .markdown-preview-view img,
+.theme-dark .markdown-source-view.mod-cm6 img {
+  border-color: rgba(255, 255, 255, 0.1);
+  background-color: rgba(255, 255, 255, 0.02);
+}
